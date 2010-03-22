@@ -1,0 +1,19 @@
+# Weeklee Mailing List
+
+Ruby mailing list event manager with [Pony](http://github.com/benprew/pony)
+
+## Install
+
+	gem install pony
+	crontab -e
+	// * 23 * * 1   /usr/bin/ruby ~/weeklee/weeklee.rb
+
+## Setup
+
+* Add your gmail account in options
+* Add your mailing list email in options
+
+## Usage
+
+* Set header and footer for the mail
+* Add events for the week

@@ -1,24 +1,6 @@
 require 'rubygems'
 require 'pony'
 
-
-#
-# README:
-#
-#   - install
-#     $ gem install pony
-#     $ crontab -e
-#       * 23 * * 1   /usr/bin/ruby ~/weeklee/weeklee.rb
-#
-#   - setup: 
-#     - add your gmail account in options
-#     - add your mailing list email in options
-#
-#   - usage:
-#     - set header and footer for the mail
-#     - add events for the week
-#
-
 #
 # Options
 #
