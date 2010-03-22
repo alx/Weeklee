@@ -33,7 +33,7 @@ options[:mailing_list] = "tetalab@lists.tetalab.org"
 #
 
 mesg = {}
-mesg[:header] = "Bonjour tout le monde,\n\n\nCette semaine au Tetalab:"
+mesg[:header] = "Bonjour tout le monde,\n\nCette semaine au Tetalab:"
 mesg[:footer] = "\n\nBonne semaine :)"
 
 #
